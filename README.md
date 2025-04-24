@@ -1,4 +1,3 @@
-# Airline flight data analysis
 
 #  Airline Flight Data Analysis
 This repository contains a comprehensive analysis of airline flight data using Python. The project is encapsulated in a Jupyter Notebook that walks through data loading, cleaning, visualization, and basic analytics to extract meaningful insights from flight-related datasets.
