@@ -22,7 +22,7 @@ NumPy – for numerical operations
 
 Matplotlib & Seaborn – for data visualization
 
-Scikit-learn (optional) – if any modeling is included
+
 
 #  Installation:
 
